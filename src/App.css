@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+@media (max-width: 600px) {
+  .myInputs{
+    flex-direction: column;
+    gap: 20px;
+    
+  }
+}
